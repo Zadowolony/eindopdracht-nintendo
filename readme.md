@@ -5,4 +5,6 @@ Voor deze opdracht moeten wij de website zo goed mogelijk nabouwen, waarbij wij 
 
 >Doorzetten is the key!!
 
-[^1]: Met dank aan CVO de verdieping. :v: :v:
+[^1]: Met dank aan CVO de verdieping. 
+
+:v: :v:
