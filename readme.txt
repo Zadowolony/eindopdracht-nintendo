@@ -1,4 +1,2 @@
-Dit is een gewone tekst.
-
-#Dit is een h1 heading
-## dit is ene h2 heading
+<h1> Eindopdracht - HTML-CSS Webiste nabouwen</h1>
+<h2> Nintendo store website</h2>
